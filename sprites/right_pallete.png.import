@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/left_pallete.png-b67eaaca844f5130e60bbb0b1be80f8d.stex"
+path="res://.import/right_pallete.png-5cdda113c51eefa445b9fbb5a125c710.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://arts/left_pallete.png"
-dest_files=[ "res://.import/left_pallete.png-b67eaaca844f5130e60bbb0b1be80f8d.stex" ]
+source_file="res://sprites/right_pallete.png"
+dest_files=[ "res://.import/right_pallete.png-5cdda113c51eefa445b9fbb5a125c710.stex" ]
 
 [params]
 
